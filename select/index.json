@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Paradisus-Paradoxum",
+  "base_artist": "MYTH & ROID",
+  "createdAt": "2026-03-23T11:48:09.280878Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Paradisus-Paradoxum",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/01_Paradisus-Paradoxum_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Paradisus-Paradoxum",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/02_Paradisus-Paradoxum_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Paradisus-Paradoxum",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/03_Paradisus-Paradoxum_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Paradisus-Paradoxum",
+      "artist": "Selphius",
+      "has_synced": true,
+      "path": "select/04_Paradisus-Paradoxum_Selphius.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Paradisus-Paradoxum - KIHOW style edition",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/05_Paradisus-Paradoxum_-_KIHOW_style_edition_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Paradisus-Paradoxum(Mare Tranquillitatis)",
+      "artist": "OxT",
+      "has_synced": false,
+      "path": "select/06_Paradisus-Paradoxum(Mare_Tranquillitatis)_OxT.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Paradisus-Paradoxum",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/07_Paradisus-Paradoxum_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Paradisus-Paradoxum",
+      "artist": "Roselia",
+      "has_synced": false,
+      "path": "select/08_Paradisus-Paradoxum_Roselia.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Paradisus-Paradoxum (OP)*",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/09_Paradisus-Paradoxum_(OP)_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Paradisus-Paradoxum",
+      "artist": "Myth & Roid",
+      "has_synced": true,
+      "path": "select/10_Paradisus-Paradoxum_Myth_&_Roid.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Paradisus-Paradoxum - Myulee Extended Version",
+      "artist": "dj-Jo feat. Myulee",
+      "has_synced": false,
+      "path": "select/11_Paradisus-Paradoxum_-_Myulee_Extended_Version_dj-Jo_feat._Myulee.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Paradisus-Paradoxum (Myulee Extended Version)",
+      "artist": "dj-Jo",
+      "has_synced": false,
+      "path": "select/12_Paradisus-Paradoxum_(Myulee_Extended_Version)_dj-Jo.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Paradisus-Paradoxum - VY1v4 Extended Version",
+      "artist": "dj-Jo feat. CircusP",
+      "has_synced": false,
+      "path": "select/13_Paradisus-Paradoxum_-_VY1v4_Extended_Version_dj-Jo_feat._CircusP.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Paradisus-Paradoxum (VY1v4 Extended Version)",
+      "artist": "dj-Jo",
+      "has_synced": false,
+      "path": "select/14_Paradisus-Paradoxum_(VY1v4_Extended_Version)_dj-Jo.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Paradisus‐Paradoxum",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/15_Paradisus‐Paradoxum_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Paradisus-Paradoxum",
+      "artist": "MYTH & ROID",
+      "has_synced": false,
+      "path": "select/pl_01_Paradisus-Paradoxum_MYTH_&_ROID.txt"
+    }
+  ]
+}
